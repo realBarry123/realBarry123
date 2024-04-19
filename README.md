@@ -1,9 +1,8 @@
-## 🥳 You did it! You've made it to my GitHub profile!
-Take this: 
-# 🏆
+<h2 align="center"> Barry Yu, The </h2>
+I used to make games. Now I still make games, but more often I'm working on AI projects with Pytorch. 
 
-### Actual Info
+<h4>Things I know how to use...</h4>
 
-I make games with [@AndyyyYuuu](https://github.com/AndyyyYuuu) (go visit him he has candy) and we post them on our [itch.io](https://blue-square.itch.io/) profile.
-
-There are also a number of AI projects here. Much of the code is copied and some of it might not work (yet) but yeah. 
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,java,js,html,css,replit,sublime)](https://skillicons.dev)
+### Links
+🎮 All our games - [itch.io](https://blue-square.itch.io/)
