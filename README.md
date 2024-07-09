@@ -3,7 +3,7 @@ I used to make games. Now I still make games, but more often I'm working on AI p
 
 <h3>🔥 Things I know how to use...</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,java,js,html,css,replit,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,java,js,html,css,unity,sublime)](https://skillicons.dev)
 <h3>🔗 Links</h3>
 
 🖼️ LinkedIn → [linkedin.com](https://www.linkedin.com/in/barry-yu-145736294/)
