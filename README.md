@@ -2,9 +2,7 @@
 
 ---
 
-<div align="center"> I make games, music, AI. </div>
-
-<div align="center"> Currently working on something big... </div>
+<div align="center">Composer&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;ML Enthousiast&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Maker of Stuff</div>
 
 <h2>My Skills</h2>
 
@@ -15,8 +13,12 @@
 <li>Socket.io</li>
 
 <h3>Other</h3>
-<li>Python</li>
-<li>Pytorch</li>
+<li>Python
+  <ul>
+    <li>Selenium</li>
+    <li>Pytorch</li>
+  </ul>
+</li>
 <li>Max/MSP</li>
 <li>Unity</li>
 <li>Processing</li>
