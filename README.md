@@ -11,6 +11,7 @@
 <li>React.js</li>
 <li>HTML, CSS</li>
 <li>Socket.io</li>
+<li>Tone.js (sort of)</li>
 
 <h3>Other</h3>
 <li>Python
@@ -20,8 +21,8 @@
   </ul>
 </li>
 <li>Max/MSP</li>
-<li>Unity</li>
 <li>Processing</li>
+<li>Unity</li>
 <li>Java (sort of)</li>
 
 <h2>Links</h2>
