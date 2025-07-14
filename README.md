@@ -11,7 +11,6 @@
 <li>React.js</li>
 <li>HTML, CSS</li>
 <li>Socket.io</li>
-<li>Tone.js (sort of)</li>
 
 <h3>Other</h3>
 <li>Python
