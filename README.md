@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center">Composer&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;ML Enthousiast&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Maker of Stuff</div>
+<div align="center">Composer&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;ML Enthusiast&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Maker of Stuff</div>
 <h2>Bio</h2>
 Hi! I'm Barry. I work on many things. For more info, check out my pinned repos.
 
