@@ -1,33 +1,22 @@
 <h3 align="center"> Barry Yu </h3>
 
+<div align="center">Composer&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;ML Enthusiast&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Maker of Stuff</div>
+
 ---
 
-<div align="center">Composer&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;ML Enthusiast&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Maker of Stuff</div>
-<h2>Bio</h2>
 Hi! I'm Barry. I work on many things. For more info, check out my pinned repos.
 
-<h2>My Tech Stack</h2>
+<h2>I work with...</h2>
 
-<details>
-<summary>Python</summary>
-<li>Pytorch</li>
-<li>Selenium</li>
-</details>
+<div align="center"><b>
 
-<details>
-<summary>Web Stuff</summary>
-<li>Javascript</li>
-<li>React.js</li>
-<li>HTML, CSS</li>
-<li>Socket.io</li>
-</details>
+  Python &nbsp;&nbsp;|&nbsp;&nbsp; Pytorch &nbsp;&nbsp;|&nbsp;&nbsp; Selenium
+  
+  Javascript &nbsp;&nbsp;|&nbsp;&nbsp; React &nbsp;&nbsp;|&nbsp;&nbsp; HTML, CSS &nbsp;&nbsp;|&nbsp;&nbsp; Socket.IO
+  
+  Max/MSP &nbsp;&nbsp;|&nbsp;&nbsp; Processing (Java) &nbsp;&nbsp;|&nbsp;&nbsp; Unity
 
-<details>
-<summary>Other</summary>
-<li>Max/MSP</li>
-<li>Processing (Java)</li>
-<li>Unity</li>
-</details>
+</b></div>
 
 <h2>Links</h2>
 
