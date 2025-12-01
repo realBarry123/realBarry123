@@ -18,8 +18,6 @@ Hi! I'm Barry. I work on many things. For more info, check out my pinned repos.
 
 </b></div>
 
-<h2>Links</h2>
-
-Games I made with my brother a while back → [blue-square.itch.io](https://blue-square.itch.io/)
+<h2></h2>
 
 Connect with me on <i>✨The Hustle App✨</i> → [linkedin.com/in/barry-yu-cs](https://www.linkedin.com/in/barry-yu-cs/)
