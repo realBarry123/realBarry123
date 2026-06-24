@@ -1,23 +1,21 @@
-<h3 align="center"> Barry Yu </h3>
-
-<div align="center">Composer&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;ML Enthusiast&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Maker of Stuff</div>
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>Barry Yu</h2>
+    </summary>
+  </ul>
+</div>
+<!-- 
+<div align="center">I like ML and music and sometimes other things</div> 
+-->
+<div align="center">I'm currently messing with AI interpretability, but I've also done web dev. </div>
 
 ---
 
-Hi! I'm Barry. I work on many things. For more info, check out my pinned repos.
-
-<h2>I work with...</h2>
-
-<div align="center"><b>
-
-  Python &nbsp;&nbsp;|&nbsp;&nbsp; Pytorch &nbsp;&nbsp;|&nbsp;&nbsp; Selenium
-  
-  Javascript &nbsp;&nbsp;|&nbsp;&nbsp; React &nbsp;&nbsp;|&nbsp;&nbsp; HTML, CSS &nbsp;&nbsp;|&nbsp;&nbsp; Socket.IO
-  
-  Max/MSP &nbsp;&nbsp;|&nbsp;&nbsp; Processing (Java) &nbsp;&nbsp;|&nbsp;&nbsp; Unity
-
-</b></div>
+- I'm quite good at `Python` `PyTorch` `Java OOP`
+- I'm somewhat familiar with `React` `HTML/CSS/JS` `Bash` `C`
+- I know a little bit of `Pandas` `Max/MSP` `Selenium` `Socket.IO` `Unity`
 
 <h2></h2>
 
-Connect with me on <i>✨The Hustle App✨</i> → [linkedin.com/in/barry-yu-cs](https://www.linkedin.com/in/barry-yu-cs/)
+**Question of the moment.** How do audio autoencoders represent spectral features? → [realBarry123/audio-embed-experiments](https://github.com/realBarry123/audio-embed-experiments)
